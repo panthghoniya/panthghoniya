@@ -20,11 +20,6 @@
 
 ---
 
-### 💻 Tech Stack
-```html
-Languages: JavaScript | TypeScript | Python | HTML | CSS
-Frameworks: React | Node.js | Express | Next.js
-Tools: Git | GitHub | VS Code | Postman | MongoDB
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Panthghoniya&show_icons=true&theme=tokyonight" alt="Panthghoniya GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panthghoniya&theme=tokyonight" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panthghoniya&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
