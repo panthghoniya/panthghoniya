@@ -1,30 +1,36 @@
-<!-- Glowing Header Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6FFF00&center=true&width=800&lines=%F0%9F%91%8B+Hi+I'm+Panth+Ghoniya;A+Creative+Full+Stack+Web+Developer;Bringing+Ideas+to+Life+With+Code" alt="Typing SVG" />
-</div>
-
-<!-- Glass Profile Card -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%; box-shadow: 0 0 20px #00f7ff;" />
-  <h2 style="font-weight:bold;">Panth Ghoniya</h2>
-  <h4>🇮🇳 India • MERN Stack Developer • UI Lover</h4>
-</div>
-
----
-
-<!-- Hero Section -->
+<!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panthghoniya&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFD9&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Panth+Ghoniya;Full+Stack+Web+Developer+From+India;Crafting+Modern+Web+Experiences+%F0%9F%9A%80" alt="Typing Intro" />
 </p>
 
+<!-- Profile Picture (Optional) -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/76626524?v=4" width="150" style="border-radius: 50%; box-shadow: 0 0 20px #00ffee;" />
+</p>
+
+<h2 align="center"><img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer-MERN-blueviolet?style=for-the-badge"/></h2>
+
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me in Code
 
-```ts
+```js
 const panth = {
-  code: ["JavaScript", "TypeScript", "React", "Node.js", "MongoDB"],
-  design: ["TailwindCSS", "Figma", "Framer Motion"],
-  tools: ["VS Code", "Git", "Postman", "Netlify", "Render"],
-  funFact: "I build, break, and rebuild – all in the same day 🚀",
+  name: "👨‍💻 Panth Ghoniya",
+  role: "💼 Full Stack Web Developer",
+  location: "📍 India 🇮🇳",
+  techStack: [
+    "⚛️ React", "🌐 Node.js", "🍃 MongoDB", "🚂 Express"
+  ],
+  UI_UX: [
+    "🎨 TailwindCSS", "🖌️ Figma", "🎞️ Framer Motion"
+  ],
+  devOps: [
+    "🐙 GitHub", "🌍 Netlify", "🚀 Render", "🌩️ Vercel"
+  ],
+  currentlyLearning: [
+    "☁️ AWS", "🔁 CI/CD", "🐳 Docker"
+  ],
+  passion: "✨ Building smooth frontend + powerful backend",
+  funFact: "💤 Can debug in my sleep!"
 };
