@@ -1,52 +1,65 @@
-# 👋 Hi there, I'm Panth Ghoniya
+<!-- Animated Typing Heading -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Panth+Ghoniya;Full+Stack+Web+Developer;Crafting+web+experiences+that+matter" alt="Typing Animation" />
+</p>
 
-## 🚀 About Me
-I'm a passionate **Full Stack Web Developer** from India 🇮🇳  
-I love building modern, responsive, and scalable web applications.
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" alt="Panth Ghoniya Avatar" style="border-radius: 50%;">
+</p>
 
-- 🔭 I’m currently working on full-stack projects using MERN stack
-- 🌱 Currently learning **DevOps & Cloud (AWS)**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 Reach me at: [panthghoniya@example.com](mailto:panthghoniya@example.com)
-- ⚡ Fun fact: I debug in my sleep 😴💻
+<!-- About Section -->
+<h2 align="center">🚀 About Me</h2>
 
-## 🛠️ Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+<p align="center">
+  I'm <strong>Panth Ghoniya</strong> – a passionate Full Stack Web Developer from 🇮🇳 India.
+  <br />
+  I design & build responsive, scalable, and user-friendly web apps.
+</p>
 
-## 📊 GitHub Stats
-![Panth's GitHub stats](https://github-readme-stats.vercel.app/api?username=panthghoniya&show_icons=true&theme=tokyonight)
+<p align="center">
+  🔭 Currently working on MERN stack projects  
+  <br />🌱 Learning AWS & DevOps tools  
+  <br />💬 Ask me about <code>JavaScript</code>, <code>React</code>, <code>MongoDB</code>  
+  <br />📫 Reach me: <a href="mailto:panthghoniya@example.com">panthghoniya@example.com</a>  
+  <br />⚡ Fun fact: I write better code than I text 😄
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panthghoniya&layout=compact&theme=tokyonight)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=panthghoniya&theme=tokyonight)
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/panthghoniya)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/panthghoniya)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,mongodb,express,git,github,tailwind,figma,vscode" />
+</p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=panthghoniya&color=blue)
+---
 
+<h2 align="center">📊 GitHub Stats</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=panthghoniya&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=panthghoniya&theme=radical&hide_border=true" height="180" />
+</p>
 
-<!--
-**panthghoniya/panthghoniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panthghoniya&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:panthghoniya@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/panthghoniya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/panthghoniya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">👁️ Visitor Count</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=panthghoniya&style=for-the-badge&color=blue" />
+</p>
