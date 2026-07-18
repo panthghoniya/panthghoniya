@@ -2,12 +2,12 @@
   ================================================================
   GITHUB PROFILE README — SETUP GUIDE
   ================================================================
-  1. Find & replace "ghoniyapanth" everywhere with your real GitHub username.
+  1. Find & replace "panthghoniya" everywhere with your real GitHub username.
   2. Find & replace "Your Name" with your real name.
   3. Update the social links (LinkedIn, Twitter/X, Instagram, Email, Portfolio).
   4. Edit the "About Me" bullets and Tech Stack icon list to match you.
   5. This file only works if your repo is named EXACTLY like your username
-     (e.g. github.com/ghoniyapanth/ghoniyapanth) — that's what makes GitHub
+     (e.g. github.com/panthghoniya/panthghoniya) — that's what makes GitHub
      show it as your profile page.
   6. The Snake animation section needs one extra file — see the note
      right above that section below.
@@ -18,15 +18,15 @@
 
 <div align="center">
 
-<a href="https://github.com/ghoniyapanth">
+<a href="https://github.com/panthghoniya">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%B1;Always+Learning+Something+New+%F0%9F%9A%80;Welcome+To+My+GitHub+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://linkedin.com/in/ghoniyapanth" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/ghoniyapanth" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/></a>
-<a href="https://instagram.com/ghoniyapanth" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://linkedin.com/in/panthghoniya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/panthghoniya" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/></a>
+<a href="https://instagram.com/panthghoniya" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
@@ -59,12 +59,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=ghoniyapanth&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ghoniyapanth&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=panthghoniya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=panthghoniya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ghoniyapanth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=panthghoniya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ghoniyapanth&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=panthghoniya&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
